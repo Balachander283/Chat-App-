@@ -1,10 +1,10 @@
 # Chat-App
 
-##Overview##
+## Overview
 
 Chat-App is a real-time chat application developed using a combination of Core Java, Spring Boot, WebSocket, React Js, Lombok, Maven, HTML, and CSS. It enables private and public messaging between users, providing a seamless communication experience.
 
-Features
+## Features
 
 - Real-time private and public messaging
 - Server-side components:
@@ -17,7 +17,7 @@ Features
   - CSS: Styles and layout for the chat interface.
   - React Js: Frontend library for building dynamic user interfaces.
 
-Getting Started
+## Getting Started
 
 To set up and run the Chat-App, follow these steps:
 
@@ -39,7 +39,7 @@ To set up and run the Chat-App, follow these steps:
 
 5. Access the chat application in your web browser.
 
-Dependencies
+## Dependencies
 
 - Core Java: The programming language for server-side logic.
 - Spring Boot: The framework for building Java applications.
@@ -49,10 +49,10 @@ Dependencies
 - Maven: Build automation tool for managing dependencies.
 - HTML & CSS: For creating the user interface.
 
-License
+## License
 
 This project is licensed under the MIT License. For more details, refer to the LICENSE file in the repository.
 
-Contact
+## Contact
 
 If you have any questions or suggestions, please feel free to contact us at [balachander283@gmail.com].
